@@ -1,2 +1,0 @@
-# DIPAPP
-Health Monitoring App
